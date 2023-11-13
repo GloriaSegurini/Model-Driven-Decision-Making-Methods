@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="opl.launchType">
+    <stringAttribute key="opl.debugModel.ATTR_ELEMENT_ID" value="=MDDMR\Run Con\figu\rationsrCon\figu\ration15"/>
+    <stringAttribute key="opl.debugModel.ATTR_PROJECT" value="MDDM"/>
+    <stringAttribute key="opl.debugModel.ATTR_RUN_CONFIG" value="Configuration15"/>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/MDDM"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="4"/>
+    </listAttribute>
+</launchConfiguration>
