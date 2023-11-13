@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cplex">
+    <setting name="cliques" value="3"/>
+    <setting name="covers" value="3"/>
+    <setting name="disjcuts" value="3"/>
+    <setting name="mircuts" value="2"/>
+    <setting name="workmem" value="15000.0"/>
+    <setting name="memoryemphasis" value="true"/>
+  </category>
+</settings>
